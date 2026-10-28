@@ -72,4 +72,4 @@ This is an educational project intended for learning and demonstration. It is no
 
 GitHub: https://github.com/NikhilNalawade2909
 
-Project Repository: https://github.com/NikhilNalawade2909/bankmanagement
+Project Repository: https://github.com/NikhilNalawade2909/Bank-Management-System
